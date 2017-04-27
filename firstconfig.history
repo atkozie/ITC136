@@ -1,0 +1,30 @@
+    1  sudo su
+    2  whoami
+    3  ps
+    4  ps aux
+    5  ps aux | more
+    6  ps aux | grep firefox
+    7  kill 2083
+    8  ps aux | grep terminal
+    9  kill 1970
+   10  sudo su
+   11  git 
+   12  git config user.name "atkozie"
+   13  git clone
+   14  git clone https://github.com/atkozie/ITC136.git
+   15  git config user.name "atkozie"
+   16  cd ITC136
+   17  git config user.name "atkozie"
+   18  history
+   19  git status
+   20  pwd
+   21  git
+   22  cd /home/adam/ITC136
+   23  git status
+   24  ls -ltra
+   25  cd .git
+   26  ls -la
+   27  cd ..
+   28  git config --global user.email "atkozie@gmail.com"
+   29  git config --global user.name "atkozie"
+   30  history >> firstconfig.history
