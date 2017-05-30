@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=x.y
+Name=Stats
+Comment=Generated Program
+Exec=/usr/bin/gnome-terminal -e /usr/local/bin/stats
+Icon=/home/adam/Pictures/cat.png
+Terminal=true
+Type=Application
+Categories=Utility;Application;
